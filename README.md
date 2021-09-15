@@ -1,4 +1,4 @@
-# webdeveloper, coffee addicted, creator hipster
+# webdeveloper
 
 Trabalho com desenvolvimento web há aproximadamente 1 ano e trabalhei em diversos projetos utilizando Django.
 
