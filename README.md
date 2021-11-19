@@ -6,7 +6,7 @@ Trabalho com desenvolvimento web há aproximadamente 1 ano e trabalhei em divers
 Minhas ferramentas e tecnologias favoritas são:
 
 - Python, Django framework
-- C, nodeJs, JavaScript
+- C, JavaScript
 
 ## Informações sobre meu Github
 
